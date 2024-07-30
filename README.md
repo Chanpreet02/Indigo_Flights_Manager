@@ -1,5 +1,5 @@
 # Indigo_Flights_Manager
-A backend project created using core Java concepts as well as the Java Database Connectivity to connect the database. Contains booking flight tickets, flight information, cancelling ticket, generating boarding pass and other basic functionalities.
+A full stack project created using core Java concepts as well as the Java Database Connectivity to connect the database. Contains booking flight tickets, flight information, cancelling ticket, generating boarding pass and other basic functionalities.
 Integrated the database through MySQL Workbench.
 This project focuses on a single airline company, i.e. Indigo 6E.
 The database I created is of the name airlinesite. The database contains different tables which handles the data of the various functionalities of the application. 
