@@ -10,6 +10,7 @@ The name of tables are:
   4. Flight: It contains the data that is relevant to the flight details like Flight code, Flight name, Sourc, and destination of the flight.
   5. Cancel: This table keeps the record of the flight ticket that is cancelled. It includes details like PNR number, Name of the user, cancellation number, Flight code, and date.
 
+The querries I used for creating the table and handling the data are also uploaded in the form of a txt file.
 Please see: I could not create the function to provide the notification on SMS or Email as I was encountring errors with it which in the end disturbed the actual working of the project.
 The login credentials for the login page of the java application are:
 Username: admin
