@@ -1,0 +1,9 @@
+1. create database airlinesite;
+2. use airlinesite;
+3. create table login(username varchar(20), password varchar(20));
+4. create table passenger(name	varchar(30), nationality varchar(20), phone varchar(15), address varchar(50), aadhar varchar(15), gender varchar(10));
+5. create table reservation(PNR	varchar(15), Ticket varchar(20),aadhar varchar(20), name varchar(20), nationality varchar(20), flightname varchar(30), flightcode varchar(20), src varchar(20), des varchar(20),ddate varchar(30));
+6. create table flight(f_code	varchar(20),f_name varchar(30), source varchar(20), destination varchar(15));
+7. create table cancel(pnr varchar(20), name varchar(20),cancelno varchar(20),fcode varchar(20),date varchar(20));
+//Inserting the username and password.
+8. insert into login values("admin","root");
