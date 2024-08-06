@@ -12,6 +12,3 @@ The name of tables are:
 
 The querries I used for creating the table and handling the data are also uploaded in the form of a txt file.
 Please see: I could not create the function to provide the notification on SMS or Email as I was encountring errors with it which in the end disturbed the actual working of the project.
-The login credentials for the login page of the java application are:
-Username: admin
-Password: root
